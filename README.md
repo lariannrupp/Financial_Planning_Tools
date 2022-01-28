@@ -1,6 +1,8 @@
 # Financial_Planning_Tools
 
 ---
+![5-4-monte-carlo-line-plot](https://user-images.githubusercontent.com/95719899/151509413-2ce13cf5-5515-4c18-aab0-605dac104b3f.png)
+
 
 For the purpose of this exercise, I’ve decided to start a fintech consulting firm that focuses on projects to benefit local communities. I just won my first contract with a large credit union. The project entails building a tool to help credit union members evaluate their financial health. 
 
